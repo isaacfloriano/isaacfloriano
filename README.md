@@ -12,7 +12,7 @@
   <img align="center" alt="Zac-Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=97&color=currentColor">
   <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/php-original.svg?size=97&color=currentColor">
   <img align="center" alt="Zac-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=60&color=currentColor">
-  <img align="right" alt="Zac-yoda" src="https://app.acordocerto.com.br/assets/img/mgm-illustration.svg" width="440" height="440" >
+  <  Img   align = "right"   alt = "Zac-yoda"   src = " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvjNd57oKyK_SsGufOwcbD6FQZOtmEcBU9fA&usqp=CAU "   width = "440"   altura = "440"   >
 </div>
 <hr>  
   <div>
