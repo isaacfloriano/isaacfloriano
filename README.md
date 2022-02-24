@@ -15,7 +15,7 @@
     <img align="right"  alt="Zac-yoda" src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ba572b09-5a58-486f-b78d-8be242611f92/dcb2atn-cad8e9f6-a02a-4f68-9123-d4c609602f58.png/v1/fill/w_826,h_968,strp/penguin_kawaii_by_ryzel_kun_dcb2atn-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg5IiwicGF0aCI6IlwvZlwvYmE1NzJiMDktNWE1OC00ODZmLWI3OGQtOGJlMjQyNjExZjkyXC9kY2IyYXRuLWNhZDhlOWY2LWEwMmEtNGY2OC05MTIzLWQ0YzYwOTYwMmY1OC5wbmciLCJ3aWR0aCI6Ijw9ODQ0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ANlMY9HEtyx86qLbcSyp-hce-X8ILh1JvstuLc8RKMU"   width = "340"   altura = "340">
  </div>
  <div> 
-     <img align="right"  alt="Zac-yoda" src = "https://pa1.narvii.com/6618/e98cb694716cb78399ee04c7763d1e276bd8a76f_hq.gif"   width = "500"   altura = "300">
+     <img align="right"  alt="Zac-yoda" src = "https://pa1.narvii.com/6618/e98cb694716cb78399ee04c7763d1e276bd8a76f_hq.gif"   width = "100"   altura = "200">
  </div>
 <hr>  
 
