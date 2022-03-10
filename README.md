@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/isaacfloriano/isaacfloriano/blob/output/github-contribution-grid-snake.svg)
 <hr>
 <b> Hi, I'm Isaac! &#128526;</b>
 <div>
@@ -15,4 +16,4 @@
         <img align="right"  alt="Zac-yoda" src = "http://pa1.narvii.com/6877/55a7b517166e4a385fcb86a41fb5690b709a163er1-320-320_00.gif"   width = "340"   altura = "340">
       </div>
  </hr>
-![Snake animation](https://github.com/isaacfloriano/isaacfloriano/blob/output/github-contribution-grid-snake.svg)
+
