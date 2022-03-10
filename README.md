@@ -13,7 +13,8 @@
   <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=97&color=currentColor">
  <img align="center" alt="Zac-Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=978&color=currentColor">
     <img align="right"  alt="Zac-yoda" src = "http://pa1.narvii.com/6877/55a7b517166e4a385fcb86a41fb5690b709a163er1-320-320_00.gif"   width = "340"   altura = "340">
+    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 <hr>  
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
