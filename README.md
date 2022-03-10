@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/isaacfloriano/isaacfloriano/blob/output/github-contribution-grid-snake.svg)
-
 <hr>
 <b> Hi, I'm Isaac! &#128526;</b>
  <div>
@@ -18,3 +16,4 @@
   </div>
 
 <hr>
+![Snake animation](https://github.com/isaacfloriano/isaacfloriano/blob/output/github-contribution-grid-snake.svg)
