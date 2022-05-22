@@ -1,9 +1,10 @@
-<hr>
-<b> Hi, I'm Isaac! &#128526;</b>
+## Me and bla bla bla...
+**I'm Isaac Silva**  
+22y dev & bug hunter  
+I make tech & hacking content for youtube...   
 <div>
   <a href="https://github.com/isaacfloriano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfloriano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfloriano&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfloriano&layout=compact&langs_count=16&theme=dark"/>
     <div>
       <div style="display: inline_block"><br>
         <img align="center" alt="Zac-Js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=97&color=currentColor">
