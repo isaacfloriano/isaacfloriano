@@ -2,6 +2,10 @@
 **I'm Isaac Floriano**  
 22y dev & bug hunter  
 I make tech & hacking content for youtube...   
+
+🎓 [**SINFO: Arduino workshop**](https://www.facebook.com/sinfoceep/) - 20h - 2017  
+🏅 [**SINFO: programming championship**](https://www.facebook.com/sinfoceep/) - 2018 
+
 <div>
   <a href="https://github.com/isaacfloriano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfloriano&layout=compact&langs_count=16&theme=dark"/>
