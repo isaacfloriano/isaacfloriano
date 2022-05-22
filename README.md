@@ -4,6 +4,7 @@
 I make tech & hacking content for youtube...   
 My [Linkedin](https://br.linkedin.com/in/isaac-floriano-192137150) for 💼 stuff  
 
+- **My 🎓 and 🏅**  
 🎓 [**SINFO: Arduino workshop**](https://www.facebook.com/sinfoceep/) - 20h - 2017  
 🏅 [**SINFO: programming championship**](https://www.facebook.com/sinfoceep/) - 2018 
 
